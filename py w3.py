@@ -1,3 +1,5 @@
 print("hi")
 
-print("MISTAAAAAAAKE")
+print("REMOVED MISTAAAAAAAKE")
+
+print("hi again")
